@@ -1,0 +1,1202 @@
+[
+  {
+    "ad": "Sefiller",
+    "yazar": "Victor Hugo",
+    "isbn": "9780140444308",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "Suç ve Ceza",
+    "yazar": "Fyodor Dostoyevski",
+    "isbn": "9780451530066",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "Karamazov Kardeşler",
+    "yazar": "Fyodor Dostoyevski",
+    "isbn": "9780374528379",
+    "durum": "ödünçte"
+  },
+  {
+    "ad": "Anna Karenina",
+    "yazar": "Lev Tolstoy",
+    "isbn": "9780143035008",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "Savaş ve Barış",
+    "yazar": "Lev Tolstoy",
+    "isbn": "9781853260629",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "Büyük Umutlar",
+    "yazar": "Charles Dickens",
+    "isbn": "9780141439563",
+    "durum": "ödünçte"
+  },
+  {
+    "ad": "İki Şehrin Hikayesi",
+    "yazar": "Charles Dickens",
+    "isbn": "9781853260391",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "Don Kişot",
+    "yazar": "Miguel de Cervantes",
+    "isbn": "9780060934347",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "Bülbülü Öldürmek",
+    "yazar": "Harper Lee",
+    "isbn": "9780061120084",
+    "durum": "ödünçte"
+  },
+  {
+    "ad": "Gazap Üzümleri",
+    "yazar": "John Steinbeck",
+    "isbn": "9780143039433",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "1984",
+    "yazar": "George Orwell",
+    "isbn": "9780451524935",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "Hayvan Çiftliği",
+    "yazar": "George Orwell",
+    "isbn": "9780451526342",
+    "durum": "ödünçte"
+  },
+  {
+    "ad": "Ulysses",
+    "yazar": "James Joyce",
+    "isbn": "9780199535675",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "Yüzyıllık Yalnızlık",
+    "yazar": "Gabriel Garcia Marquez",
+    "isbn": "9780060883287",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "Körlük",
+    "yazar": "Jose Saramago",
+    "isbn": "9780156007757",
+    "durum": "ödünçte"
+  },
+  {
+    "ad": "Dönüşüm",
+    "yazar": "Franz Kafka",
+    "isbn": "9780143105244",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "Şato",
+    "yazar": "Franz Kafka",
+    "isbn": "9780805211061",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "Yabancı",
+    "yazar": "Albert Camus",
+    "isbn": "9780679720201",
+    "durum": "ödünçte"
+  },
+  {
+    "ad": "Veba",
+    "yazar": "Albert Camus",
+    "isbn": "9780679720218",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "Denemeler",
+    "yazar": "Montaigne",
+    "isbn": "9789750700315",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "1984",
+    "yazar": "George Orwell",
+    "isbn": "9780451524955",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "Hayvan Çiftliği",
+    "yazar": "George Orwell",
+    "isbn": "9780451526363",
+    "durum": "ödünçte"
+  },
+  {
+    "ad": "Ulysses",
+    "yazar": "James Joyce",
+    "isbn": "9780199535697",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "Yüzyıllık Yalnızlık",
+    "yazar": "Gabriel Garcia Marquez",
+    "isbn": "9780060883310",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "Körlük",
+    "yazar": "Jose Saramago",
+    "isbn": "9780156007781",
+    "durum": "ödünçte"
+  },
+  {
+    "ad": "Dönüşüm",
+    "yazar": "Franz Kafka",
+    "isbn": "9780143105269",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "Şato",
+    "yazar": "Franz Kafka",
+    "isbn": "9780805211087",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "Yabancı",
+    "yazar": "Albert Camus",
+    "isbn": "9780679720228",
+    "durum": "ödünçte"
+  },
+  {
+    "ad": "Veba",
+    "yazar": "Albert Camus",
+    "isbn": "9780679720246",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "Denemeler",
+    "yazar": "Montaigne",
+    "isbn": "9789750700344",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "1984",
+    "yazar": "George Orwell",
+    "isbn": "9780451524965",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "Hayvan Çiftliği",
+    "yazar": "George Orwell",
+    "isbn": "9780451526373",
+    "durum": "ödünçte"
+  },
+  {
+    "ad": "Ulysses",
+    "yazar": "James Joyce",
+    "isbn": "9780199535707",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "Yüzyıllık Yalnızlık",
+    "yazar": "Gabriel Garcia Marquez",
+    "isbn": "9780060883320",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "Körlük",
+    "yazar": "Jose Saramago",
+    "isbn": "9780156007791",
+    "durum": "ödünçte"
+  },
+  {
+    "ad": "Dönüşüm",
+    "yazar": "Franz Kafka",
+    "isbn": "9780143105279",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "Şato",
+    "yazar": "Franz Kafka",
+    "isbn": "9780805211097",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "Yabancı",
+    "yazar": "Albert Camus",
+    "isbn": "9780679720238",
+    "durum": "ödünçte"
+  },
+  {
+    "ad": "Veba",
+    "yazar": "Albert Camus",
+    "isbn": "9780679720256",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "Denemeler",
+    "yazar": "Montaigne",
+    "isbn": "9789750700354",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "1984",
+    "yazar": "George Orwell",
+    "isbn": "9780451524975",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "Hayvan Çiftliği",
+    "yazar": "George Orwell",
+    "isbn": "9780451526383",
+    "durum": "ödünçte"
+  },
+  {
+    "ad": "Ulysses",
+    "yazar": "James Joyce",
+    "isbn": "9780199535717",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "Yüzyıllık Yalnızlık",
+    "yazar": "Gabriel Garcia Marquez",
+    "isbn": "9780060883330",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "Körlük",
+    "yazar": "Jose Saramago",
+    "isbn": "9780156007801",
+    "durum": "ödünçte"
+  },
+  {
+    "ad": "Dönüşüm",
+    "yazar": "Franz Kafka",
+    "isbn": "9780143105289",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "Şato",
+    "yazar": "Franz Kafka",
+    "isbn": "9780805211107",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "Yabancı",
+    "yazar": "Albert Camus",
+    "isbn": "9780679720248",
+    "durum": "ödünçte"
+  },
+  {
+    "ad": "Veba",
+    "yazar": "Albert Camus",
+    "isbn": "9780679720266",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "Denemeler",
+    "yazar": "Montaigne",
+    "isbn": "9789750700364",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "1984",
+    "yazar": "George Orwell",
+    "isbn": "9780451524985",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "Hayvan Çiftliği",
+    "yazar": "George Orwell",
+    "isbn": "9780451526393",
+    "durum": "ödünçte"
+  },
+  {
+    "ad": "Ulysses",
+    "yazar": "James Joyce",
+    "isbn": "9780199535727",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "Yüzyıllık Yalnızlık",
+    "yazar": "Gabriel Garcia Marquez",
+    "isbn": "9780060883340",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "Körlük",
+    "yazar": "Jose Saramago",
+    "isbn": "9780156007811",
+    "durum": "ödünçte"
+  },
+  {
+    "ad": "Dönüşüm",
+    "yazar": "Franz Kafka",
+    "isbn": "9780143105299",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "Şato",
+    "yazar": "Franz Kafka",
+    "isbn": "9780805211117",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "Yabancı",
+    "yazar": "Albert Camus",
+    "isbn": "9780679720258",
+    "durum": "ödünçte"
+  },
+  {
+    "ad": "Veba",
+    "yazar": "Albert Camus",
+    "isbn": "9780679720276",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "Denemeler",
+    "yazar": "Montaigne",
+    "isbn": "9789750700374",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "1984",
+    "yazar": "George Orwell",
+    "isbn": "9780451524995",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "Hayvan Çiftliği",
+    "yazar": "George Orwell",
+    "isbn": "9780451526403",
+    "durum": "ödünçte"
+  },
+  {
+    "ad": "Ulysses",
+    "yazar": "James Joyce",
+    "isbn": "9780199535737",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "Yüzyıllık Yalnızlık",
+    "yazar": "Gabriel Garcia Marquez",
+    "isbn": "9780060883350",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "Körlük",
+    "yazar": "Jose Saramago",
+    "isbn": "9780156007821",
+    "durum": "ödünçte"
+  },
+  {
+    "ad": "Dönüşüm",
+    "yazar": "Franz Kafka",
+    "isbn": "9780143105309",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "Şato",
+    "yazar": "Franz Kafka",
+    "isbn": "9780805211127",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "Yabancı",
+    "yazar": "Albert Camus",
+    "isbn": "9780679720268",
+    "durum": "ödünçte"
+  },
+  {
+    "ad": "Veba",
+    "yazar": "Albert Camus",
+    "isbn": "9780679720286",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "Denemeler",
+    "yazar": "Montaigne",
+    "isbn": "9789750700384",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "1984",
+    "yazar": "George Orwell",
+    "isbn": "9780451525005",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "Hayvan Çiftliği",
+    "yazar": "George Orwell",
+    "isbn": "9780451526413",
+    "durum": "ödünçte"
+  },
+  {
+    "ad": "Ulysses",
+    "yazar": "James Joyce",
+    "isbn": "9780199535747",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "Yüzyıllık Yalnızlık",
+    "yazar": "Gabriel Garcia Marquez",
+    "isbn": "9780060883360",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "Körlük",
+    "yazar": "Jose Saramago",
+    "isbn": "9780156007831",
+    "durum": "ödünçte"
+  },
+  {
+    "ad": "Dönüşüm",
+    "yazar": "Franz Kafka",
+    "isbn": "9780143105319",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "Şato",
+    "yazar": "Franz Kafka",
+    "isbn": "9780805211137",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "Yabancı",
+    "yazar": "Albert Camus",
+    "isbn": "9780679720278",
+    "durum": "ödünçte"
+  },
+  {
+    "ad": "Veba",
+    "yazar": "Albert Camus",
+    "isbn": "9780679720296",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "Denemeler",
+    "yazar": "Montaigne",
+    "isbn": "9789750700394",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "1984",
+    "yazar": "George Orwell",
+    "isbn": "9780451525015",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "Hayvan Çiftliği",
+    "yazar": "George Orwell",
+    "isbn": "9780451526423",
+    "durum": "ödünçte"
+  },
+  {
+    "ad": "Ulysses",
+    "yazar": "James Joyce",
+    "isbn": "9780199535757",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "Yüzyıllık Yalnızlık",
+    "yazar": "Gabriel Garcia Marquez",
+    "isbn": "9780060883370",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "Körlük",
+    "yazar": "Jose Saramago",
+    "isbn": "9780156007841",
+    "durum": "ödünçte"
+  },
+  {
+    "ad": "Dönüşüm",
+    "yazar": "Franz Kafka",
+    "isbn": "9780143105329",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "Şato",
+    "yazar": "Franz Kafka",
+    "isbn": "9780805211147",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "Yabancı",
+    "yazar": "Albert Camus",
+    "isbn": "9780679720288",
+    "durum": "ödünçte"
+  },
+  {
+    "ad": "Veba",
+    "yazar": "Albert Camus",
+    "isbn": "9780679720306",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "Denemeler",
+    "yazar": "Montaigne",
+    "isbn": "9789750700404",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "1984",
+    "yazar": "George Orwell",
+    "isbn": "9780451525025",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "Hayvan Çiftliği",
+    "yazar": "George Orwell",
+    "isbn": "9780451526433",
+    "durum": "ödünçte"
+  },
+  {
+    "ad": "Ulysses",
+    "yazar": "James Joyce",
+    "isbn": "9780199535767",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "Yüzyıllık Yalnızlık",
+    "yazar": "Gabriel Garcia Marquez",
+    "isbn": "9780060883380",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "Körlük",
+    "yazar": "Jose Saramago",
+    "isbn": "9780156007851",
+    "durum": "ödünçte"
+  },
+  {
+    "ad": "Dönüşüm",
+    "yazar": "Franz Kafka",
+    "isbn": "9780143105339",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "Şato",
+    "yazar": "Franz Kafka",
+    "isbn": "9780805211157",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "Yabancı",
+    "yazar": "Albert Camus",
+    "isbn": "9780679720298",
+    "durum": "ödünçte"
+  },
+  {
+    "ad": "Veba",
+    "yazar": "Albert Camus",
+    "isbn": "9780679720316",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "Denemeler",
+    "yazar": "Montaigne",
+    "isbn": "9789750700414",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "1984",
+    "yazar": "George Orwell",
+    "isbn": "9780451525035",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "Hayvan Çiftliği",
+    "yazar": "George Orwell",
+    "isbn": "9780451526443",
+    "durum": "ödünçte"
+  },
+  {
+    "ad": "Ulysses",
+    "yazar": "James Joyce",
+    "isbn": "9780199535777",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "Yüzyıllık Yalnızlık",
+    "yazar": "Gabriel Garcia Marquez",
+    "isbn": "9780060883390",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "Körlük",
+    "yazar": "Jose Saramago",
+    "isbn": "9780156007861",
+    "durum": "ödünçte"
+  },
+  {
+    "ad": "Dönüşüm",
+    "yazar": "Franz Kafka",
+    "isbn": "9780143105349",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "Şato",
+    "yazar": "Franz Kafka",
+    "isbn": "9780805211167",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "Yabancı",
+    "yazar": "Albert Camus",
+    "isbn": "9780679720308",
+    "durum": "ödünçte"
+  },
+  {
+    "ad": "Veba",
+    "yazar": "Albert Camus",
+    "isbn": "9780679720326",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "Denemeler",
+    "yazar": "Montaigne",
+    "isbn": "9789750700424",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "1984",
+    "yazar": "George Orwell",
+    "isbn": "9780451525045",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "Hayvan Çiftliği",
+    "yazar": "George Orwell",
+    "isbn": "9780451526453",
+    "durum": "ödünçte"
+  },
+  {
+    "ad": "Ulysses",
+    "yazar": "James Joyce",
+    "isbn": "9780199535787",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "Yüzyıllık Yalnızlık",
+    "yazar": "Gabriel Garcia Marquez",
+    "isbn": "9780060883400",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "Körlük",
+    "yazar": "Jose Saramago",
+    "isbn": "9780156007871",
+    "durum": "ödünçte"
+  },
+  {
+    "ad": "Dönüşüm",
+    "yazar": "Franz Kafka",
+    "isbn": "9780143105359",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "Şato",
+    "yazar": "Franz Kafka",
+    "isbn": "9780805211177",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "Yabancı",
+    "yazar": "Albert Camus",
+    "isbn": "9780679720318",
+    "durum": "ödünçte"
+  },
+  {
+    "ad": "Veba",
+    "yazar": "Albert Camus",
+    "isbn": "9780679720336",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "Denemeler",
+    "yazar": "Montaigne",
+    "isbn": "9789750700434",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "1984",
+    "yazar": "George Orwell",
+    "isbn": "9780451525055",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "Hayvan Çiftliği",
+    "yazar": "George Orwell",
+    "isbn": "9780451526463",
+    "durum": "ödünçte"
+  },
+  {
+    "ad": "Ulysses",
+    "yazar": "James Joyce",
+    "isbn": "9780199535797",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "Yüzyıllık Yalnızlık",
+    "yazar": "Gabriel Garcia Marquez",
+    "isbn": "9780060883410",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "Körlük",
+    "yazar": "Jose Saramago",
+    "isbn": "9780156007881",
+    "durum": "ödünçte"
+  },
+  {
+    "ad": "Dönüşüm",
+    "yazar": "Franz Kafka",
+    "isbn": "9780143105369",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "Şato",
+    "yazar": "Franz Kafka",
+    "isbn": "9780805211187",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "Yabancı",
+    "yazar": "Albert Camus",
+    "isbn": "9780679720328",
+    "durum": "ödünçte"
+  },
+  {
+    "ad": "Veba",
+    "yazar": "Albert Camus",
+    "isbn": "9780679720346",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "Denemeler",
+    "yazar": "Montaigne",
+    "isbn": "9789750700444",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "1984",
+    "yazar": "George Orwell",
+    "isbn": "9780451525065",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "Hayvan Çiftliği",
+    "yazar": "George Orwell",
+    "isbn": "9780451526473",
+    "durum": "ödünçte"
+  },
+  {
+    "ad": "Ulysses",
+    "yazar": "James Joyce",
+    "isbn": "9780199535807",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "Yüzyıllık Yalnızlık",
+    "yazar": "Gabriel Garcia Marquez",
+    "isbn": "9780060883420",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "Körlük",
+    "yazar": "Jose Saramago",
+    "isbn": "9780156007891",
+    "durum": "ödünçte"
+  },
+  {
+    "ad": "Dönüşüm",
+    "yazar": "Franz Kafka",
+    "isbn": "9780143105379",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "Şato",
+    "yazar": "Franz Kafka",
+    "isbn": "9780805211197",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "Yabancı",
+    "yazar": "Albert Camus",
+    "isbn": "9780679720338",
+    "durum": "ödünçte"
+  },
+  {
+    "ad": "Veba",
+    "yazar": "Albert Camus",
+    "isbn": "9780679720356",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "Denemeler",
+    "yazar": "Montaigne",
+    "isbn": "9789750700454",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "1984",
+    "yazar": "George Orwell",
+    "isbn": "9780451525075",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "Hayvan Çiftliği",
+    "yazar": "George Orwell",
+    "isbn": "9780451526483",
+    "durum": "ödünçte"
+  },
+  {
+    "ad": "Ulysses",
+    "yazar": "James Joyce",
+    "isbn": "9780199535817",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "Yüzyıllık Yalnızlık",
+    "yazar": "Gabriel Garcia Marquez",
+    "isbn": "9780060883430",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "Körlük",
+    "yazar": "Jose Saramago",
+    "isbn": "9780156007901",
+    "durum": "ödünçte"
+  },
+  {
+    "ad": "Dönüşüm",
+    "yazar": "Franz Kafka",
+    "isbn": "9780143105389",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "Şato",
+    "yazar": "Franz Kafka",
+    "isbn": "9780805211207",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "Yabancı",
+    "yazar": "Albert Camus",
+    "isbn": "9780679720348",
+    "durum": "ödünçte"
+  },
+  {
+    "ad": "Veba",
+    "yazar": "Albert Camus",
+    "isbn": "9780679720366",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "Denemeler",
+    "yazar": "Montaigne",
+    "isbn": "9789750700464",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "1984",
+    "yazar": "George Orwell",
+    "isbn": "9780451525085",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "Hayvan Çiftliği",
+    "yazar": "George Orwell",
+    "isbn": "9780451526493",
+    "durum": "ödünçte"
+  },
+  {
+    "ad": "Ulysses",
+    "yazar": "James Joyce",
+    "isbn": "9780199535827",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "Yüzyıllık Yalnızlık",
+    "yazar": "Gabriel Garcia Marquez",
+    "isbn": "9780060883440",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "Körlük",
+    "yazar": "Jose Saramago",
+    "isbn": "9780156007911",
+    "durum": "ödünçte"
+  },
+  {
+    "ad": "Dönüşüm",
+    "yazar": "Franz Kafka",
+    "isbn": "9780143105399",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "Şato",
+    "yazar": "Franz Kafka",
+    "isbn": "9780805211217",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "Yabancı",
+    "yazar": "Albert Camus",
+    "isbn": "9780679720358",
+    "durum": "ödünçte"
+  },
+  {
+    "ad": "Veba",
+    "yazar": "Albert Camus",
+    "isbn": "9780679720376",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "Denemeler",
+    "yazar": "Montaigne",
+    "isbn": "9789750700474",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "1984",
+    "yazar": "George Orwell",
+    "isbn": "9780451525095",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "Hayvan Çiftliği",
+    "yazar": "George Orwell",
+    "isbn": "9780451526503",
+    "durum": "ödünçte"
+  },
+  {
+    "ad": "Ulysses",
+    "yazar": "James Joyce",
+    "isbn": "9780199535837",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "Yüzyıllık Yalnızlık",
+    "yazar": "Gabriel Garcia Marquez",
+    "isbn": "9780060883450",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "Körlük",
+    "yazar": "Jose Saramago",
+    "isbn": "9780156007921",
+    "durum": "ödünçte"
+  },
+  {
+    "ad": "Dönüşüm",
+    "yazar": "Franz Kafka",
+    "isbn": "9780143105409",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "Şato",
+    "yazar": "Franz Kafka",
+    "isbn": "9780805211227",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "Yabancı",
+    "yazar": "Albert Camus",
+    "isbn": "9780679720368",
+    "durum": "ödünçte"
+  },
+  {
+    "ad": "Veba",
+    "yazar": "Albert Camus",
+    "isbn": "9780679720386",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "Denemeler",
+    "yazar": "Montaigne",
+    "isbn": "9789750700484",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "1984",
+    "yazar": "George Orwell",
+    "isbn": "9780451525105",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "Hayvan Çiftliği",
+    "yazar": "George Orwell",
+    "isbn": "9780451526513",
+    "durum": "ödünçte"
+  },
+  {
+    "ad": "Ulysses",
+    "yazar": "James Joyce",
+    "isbn": "9780199535847",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "Yüzyıllık Yalnızlık",
+    "yazar": "Gabriel Garcia Marquez",
+    "isbn": "9780060883460",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "Körlük",
+    "yazar": "Jose Saramago",
+    "isbn": "9780156007931",
+    "durum": "ödünçte"
+  },
+  {
+    "ad": "Dönüşüm",
+    "yazar": "Franz Kafka",
+    "isbn": "9780143105419",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "Şato",
+    "yazar": "Franz Kafka",
+    "isbn": "9780805211237",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "Yabancı",
+    "yazar": "Albert Camus",
+    "isbn": "9780679720378",
+    "durum": "ödünçte"
+  },
+  {
+    "ad": "Veba",
+    "yazar": "Albert Camus",
+    "isbn": "9780679720396",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "Denemeler",
+    "yazar": "Montaigne",
+    "isbn": "9789750700494",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "1984",
+    "yazar": "George Orwell",
+    "isbn": "9780451525115",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "Hayvan Çiftliği",
+    "yazar": "George Orwell",
+    "isbn": "9780451526523",
+    "durum": "ödünçte"
+  },
+  {
+    "ad": "Ulysses",
+    "yazar": "James Joyce",
+    "isbn": "9780199535857",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "Yüzyıllık Yalnızlık",
+    "yazar": "Gabriel Garcia Marquez",
+    "isbn": "9780060883470",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "Körlük",
+    "yazar": "Jose Saramago",
+    "isbn": "9780156007941",
+    "durum": "ödünçte"
+  },
+  {
+    "ad": "Dönüşüm",
+    "yazar": "Franz Kafka",
+    "isbn": "9780143105429",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "Şato",
+    "yazar": "Franz Kafka",
+    "isbn": "9780805211247",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "Yabancı",
+    "yazar": "Albert Camus",
+    "isbn": "9780679720388",
+    "durum": "ödünçte"
+  },
+  {
+    "ad": "Veba",
+    "yazar": "Albert Camus",
+    "isbn": "9780679720406",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "Denemeler",
+    "yazar": "Montaigne",
+    "isbn": "9789750700504",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "1984",
+    "yazar": "George Orwell",
+    "isbn": "9780451525125",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "Hayvan Çiftliği",
+    "yazar": "George Orwell",
+    "isbn": "9780451526533",
+    "durum": "ödünçte"
+  },
+  {
+    "ad": "Ulysses",
+    "yazar": "James Joyce",
+    "isbn": "9780199535867",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "Yüzyıllık Yalnızlık",
+    "yazar": "Gabriel Garcia Marquez",
+    "isbn": "9780060883480",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "Körlük",
+    "yazar": "Jose Saramago",
+    "isbn": "9780156007951",
+    "durum": "ödünçte"
+  },
+  {
+    "ad": "Dönüşüm",
+    "yazar": "Franz Kafka",
+    "isbn": "9780143105439",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "Şato",
+    "yazar": "Franz Kafka",
+    "isbn": "9780805211257",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "Yabancı",
+    "yazar": "Albert Camus",
+    "isbn": "9780679720398",
+    "durum": "ödünçte"
+  },
+  {
+    "ad": "Veba",
+    "yazar": "Albert Camus",
+    "isbn": "9780679720416",
+    "durum": "mevcut"
+  },
+  {
+    "ad": "Denemeler",
+    "yazar": "Montaigne",
+    "isbn": "9789750700514",
+    "durum": "mevcut"
+  }
+]
